@@ -17,6 +17,7 @@ public class Main {
             System.out.println("4) Update player Role ");
             System.out.println("5) Exit");
             System.out.print("Enter your choice: ");
+            System.out.print("Enter your tttttt: ");
             choice = in.nextInt();
             in.nextLine();
             switch (choice) {
