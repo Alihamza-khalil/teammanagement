@@ -255,7 +255,5 @@ public class Main {
 
         System.out.println("Player with ID " + id + " removed successfully!");
     }
+
 }
-
-
-
